@@ -7,7 +7,7 @@ Created on Wed Jun  7 10:07:44 2023
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API_KEY_OPENAI"
 
 def generate_response(prompt):
     try:
