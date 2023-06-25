@@ -41,7 +41,7 @@ from openai_chat import ChatCompletion
 prompt = "Hello, chatbot!"
 
 # Initialize the ChatCompletion class
-chatbot = ChatCompletion(api_key='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')
+chatbot = ChatCompletion(api_key='API_KEY_OPENAI')
 
 # Create an array of message objects for the chat
 messages = [
