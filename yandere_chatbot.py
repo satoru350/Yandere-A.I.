@@ -19,7 +19,7 @@ nltk.download('vader_lexicon')
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 sia = SentimentIntensityAnalyzer()
-openai.api_key = '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'
+openai.api_key = 'API_KEY_OPENAI'
 
 knowledge_base = {
     'who is the president of the United States?': 'The current president of the United States is Joe Biden.',
