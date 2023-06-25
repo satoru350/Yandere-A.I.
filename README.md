@@ -6,6 +6,7 @@ Interactive chatbot is in yandere_chatbot.py file. Run it and you'll be able to 
 Please replace API_KEY_OPENAI with open API key from your account to make the chatbot work.
 yandere_personality.py is still under contruction so it might no be useful at all for now.
 It's still in it's early version so don't expect very much.
+Though,Make sure to know well about the yandere traits. It might even st*lk you lol.
 Please make sure to download all the necessary modules in the file to run it.
 I'm very new to this programming world so there might be some crappy problems,I apologise beforehand.
 If you face problems in these please make sure to notify these in issues bar.
